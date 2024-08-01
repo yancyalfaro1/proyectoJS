@@ -1,0 +1,19 @@
+body{
+
+    background-color: indianred;
+}
+
+.x{
+    text-align: center;
+}
+
+.x1  {
+    display: grid;
+    margin-left: 150px;
+    align-content: center;
+    width: 30%;
+
+}
+.centrar{
+    margin-left: 350px;
+}
